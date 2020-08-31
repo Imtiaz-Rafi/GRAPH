@@ -54,4 +54,3 @@ Answer = pow(2, count of zero bits) // Refer Sum == XOR
    __builtin_clz(n));      //Count of leading 0s
    __builtin_ctz(n));      //Count of trailing 0s
 */
- 
